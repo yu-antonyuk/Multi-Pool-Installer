@@ -6,11 +6,11 @@
 # Updated by cryptopool.builders for crypto use...
 # This script is intended to be run like this:
 #
-#   curl https://raw.githubusercontent.com/yu-antonyuk/multipool_setup/master/bootstrap.sh | bash
+#   curl https://raw.githubusercontent.com/yu-antonyuk/Multi-Pool-Installer/master/bootstrap.sh | bash
 #
 #########################################################
 if [ -z "${TAG}" ]; then
-	TAG=v2.55
+	TAG=yiimp.v2.55
 fi
 
 
